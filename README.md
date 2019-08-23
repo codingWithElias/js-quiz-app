@@ -5,5 +5,4 @@
 * HTML
 * CSS
 
-[See Demo] (https://eliasfsdev.github.io/js-quiz-app/)
-![Image](https://github.com/eliasFsDev/js-quiz-app/blob/master/faveicon.png)
+[See Demo](https://eliasfsdev.github.io/js-quiz-app/)
