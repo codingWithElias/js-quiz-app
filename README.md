@@ -5,7 +5,7 @@ version: 1.0.0
 
 ## Deployment
 
-[Visit] -> javascript-quiz-app](https://eliasfsdev.github.io/js-quiz-app/)
+[Visit Javascript-Quiz-App](https://eliasfsdev.github.io/js-quiz-app/)
 
 ## Authors
 
