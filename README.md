@@ -9,6 +9,5 @@ version: 1.0.0
 
 ## Authors
 
-* **Elias Abdurrahman** - [Elias Abdurrahman](https://github.com/eliasFsDev)
+* **Elias Abdurrahman** - [Github](https://github.com/eliasFsDev)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
